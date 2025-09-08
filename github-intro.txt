@@ -1,0 +1,12 @@
+What GitHub Is?
+
+- A cloud-based web platform for hosting Git repositories.
+- Provides version control, collaboration, and project management tools.
+- Often described as “Google Drive for code”.
+
+How GitHub Is Used?
+
+- Store code and project files online.
+- Track and manage changes using Git.
+- Collaborate with teammates through branches, pull requests, and code reviews.
+- Share projects publicly or privately.
