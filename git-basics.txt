@@ -1,0 +1,7 @@
+What I’ve learned about Git so far:
+
+1. Setting up a GitHub account and configuring Git on Linux.
+2. Initializing new repositories and cloning existing ones.
+3. Creating, renaming, and deleting branches.
+4. Adding, committing, pushing, merging, and fetching changes.
+5. Creating pull requests and assigning reviewers.
